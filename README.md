@@ -7,8 +7,11 @@ A node script for decrypting classic MHW saves and extracting appearance data an
 ## Usage
 
 The yargs are pretty clear so we'll just copy those here, preface each of the following commands with node mhse.js
+
 `decrypt [source] [output]` : Decrypt a save file
+
 `encrypt [source] [output]` : Encrypt a decrypted save file
+
 `getJSON [source]` : Read decrypted save file and create JSON files for each character
 
 ## Acknowledgements
