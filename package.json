@@ -1,0 +1,20 @@
+{
+  "name": "mh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "binutils.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "egoroof-blowfish": "^2.2.0"
+  },
+  "devDependencies": {
+    "javascript-blowfish": "^1.0.4",
+    "jest": "^24.8.0",
+    "smart-buffer": "^4.0.2",
+    "yargs": "^13.2.4"
+  }
+}
